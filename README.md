@@ -1,2 +1,5 @@
-# formly-jsonpowered-formbuilder
-The project documents the features available on our C# Formly Json Powered Builder
+# WAP C# Formly Json Powered Builder
+## The project documents the features available on our C# Formly Json Powered Builder
+
+# Please see the wiki for documentation
+
